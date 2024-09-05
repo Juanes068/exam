@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "FinalExam-IST107-CCTB",
+    "public": "FinalExam-IST107-CCTB/index.html",
     "ignore": [
       "firebase.json",
       "**/.*",
